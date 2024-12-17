@@ -63,7 +63,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
-description = "The author website for Dave and Antoinette Flood"
+description = "New book by David and Antoinette Flood, \"The Anguish of Adolescence: Practicing the Gospel of Peace Among Teens Suffering from Anxiety and Depression.\""
 author = "David Flood, II"
 twitter = "FloodDavid"
 image = "images/og-image.png"
