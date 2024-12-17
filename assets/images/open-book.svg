@@ -1,0 +1,18 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Book cover -->
+    <path d="M 50 50 L 350 50 Q 370 50 370 70 L 370 250 Q 370 270 350 270 L 50 270 Q 30 270 30 250 L 30 70 Q 30 50 50 50" fill="none" stroke="currentColor" stroke-width="3"/>
+    <!-- Book spine -->
+    <path d="M 200 50 Q 220 150 200 270" fill="none" stroke="currentColor" stroke-width="3"/>
+    <!-- Left page lines -->
+    <line x1="70" y1="90" x2="180" y2="90" stroke="currentColor" stroke-width="2"/>
+    <line x1="70" y1="120" x2="180" y2="120" stroke="currentColor" stroke-width="2"/>
+    <line x1="70" y1="150" x2="180" y2="150" stroke="currentColor" stroke-width="2"/>
+    <line x1="70" y1="180" x2="180" y2="180" stroke="currentColor" stroke-width="2"/>
+    <line x1="70" y1="210" x2="180" y2="210" stroke="currentColor" stroke-width="2"/>
+    <!-- Right page lines -->
+    <line x1="220" y1="90" x2="330" y2="90" stroke="currentColor" stroke-width="2"/>
+    <line x1="220" y1="120" x2="330" y2="120" stroke="currentColor" stroke-width="2"/>
+    <line x1="220" y1="150" x2="330" y2="150" stroke="currentColor" stroke-width="2"/>
+    <line x1="220" y1="180" x2="330" y2="180" stroke="currentColor" stroke-width="2"/>
+    <line x1="220" y1="210" x2="330" y2="210" stroke="currentColor" stroke-width="2"/>
+</svg>

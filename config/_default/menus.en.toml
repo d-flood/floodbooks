@@ -1,0 +1,49 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "#home"
+weight = 1
+
+[[main]]
+name = "About the Book"
+url = "#about-the-book"
+weight = 2
+
+[[main]]
+name = "Table of Contents"
+url = "#table-of-contents"
+weight = 3
+
+[[main]]
+name = "The Authors"
+url = "#the-authors"
+weight = 4
+
+[[main]]
+name = "Endorsements"
+url = "#endorsements"
+weight = 5
+
+# [[main]]
+# name = "Table of Contents"
+# url = "/table-of-contents"
+# weight = 3
+
+# [[main]]
+# parent = "Pages"
+# name = "Blog"
+# url = "/blog"
+
+
+# # footer menu
+# [[footer]]
+# name = "Home"
+# url = "/"
+# weight = 1
+
+# [[footer]]
+# name = "About the Book"
+# url = "/about"
+# weight = 2

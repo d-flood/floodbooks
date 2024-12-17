@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="section-sm">
+    <div class="container">
+        <div class="row justify-center">
+            <div class="md:col-10 lg:col-7">
+                <div class="flex flex-row items-center mb-6">
+                    <h2 class="h3">{{ .Title | markdownify }}</h2>
+                    <div class="ml-5 max-h-52 w-52">
+                        {{ partial "image" (dict "Src" .Params.image "Context" .Page "Alt" .Title "Class" "mb-6 max-h-52 object-contain" "Size" "") }}
+                    </div>
+                </div>
+                <div class="content">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
