@@ -4,10 +4,10 @@ banner:
   title: "The Anguish of Adolescence"
   content: "Practicing the Gospel of Peace Among Teens Suffering from Anxiety and Depression."
   image: "/images/aoa_cover.jpg"
-  button:
-    enable: true
-    label: "Get it Now"
-    link: "https://www.ivpress.com/"
+#   button:
+#     enable: true
+#     label: "Get it Now"
+#     link: "https://www.ivpress.com/"
 
 # Features
 features:
