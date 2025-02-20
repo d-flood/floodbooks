@@ -63,7 +63,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
-description = "New book by David and Antoinette Flood, \"The Anguish of Adolescence: Practicing the Gospel of Peace Among Teens Suffering from Anxiety and Depression.\""
+description = "Recovering the gospel of peace in an age of anguish: for the millions of adolescents rejecting Christianity, and the record numbers who find it irrelevant"
 author = "David Flood, II"
 twitter = "FloodDavid"
 image = "images/og-image.png"

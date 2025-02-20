@@ -4,17 +4,17 @@ banner:
   title: "The Anguish of Adolescence"
   content: "Practicing the Gospel of Peace Among Teens Suffering from Anxiety and Depression."
   image: "/images/aoa_cover.jpg"
-#   button:
-#     enable: true
-#     label: "Get it Now"
-#     link: "https://www.ivpress.com/"
+  button:
+    enable: true
+    label: "Preview the book now"
+    link: "/preview"
 
 # Features
 features:
   - title: "About the Book"
     image: "/images/open-book-black.png"
     invert: true
-    content: "**_The Anguish of Adolescence_** is a timely read for anyone looking to understand and support today's teenagers, especially those grappling with anxiety, depression, and spiritual disconnect. As mental health issues surge, this highlights the importance of offering _the gospel of peace_ to emerging generations yearning for hope."
+    content: "Recovering the gospel of peace in an age of anguish: for the millions of adolescents rejecting Christianity, and the record numbers who find it irrelevant. **_The Anguish of Adolescence_** is a timely read for anyone looking to understand and support today's teenagers, especially those grappling with anxiety, depression, and spiritual disconnect. As mental health issues surge, this highlights the importance of offering _the gospel of peace_ to emerging generations yearning for hope."
     bulletpoints:
       - "Teens face overwhelming pressures from social media and rapid cultural changes, often resulting in a growing disconnect from traditional family structures and religious institutions. This gap can be bridged by offering teens a pathway to reconnect with faith and family while addressing their struggles. "
       - "Current research shows that _social media contagion amplifies external voices_, drawing youth into others' narratives and stripping them of their unique stories. Half of all teenagers struggle with anxiety and depression, and suicide attempts continue to rise."
