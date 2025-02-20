@@ -6,7 +6,7 @@ banner:
   image: "/images/aoa_cover.jpg"
   button:
     enable: true
-    label: "Preview the book now"
+    label: "Preview the book"
     link: "/preview"
 
 # Features
@@ -34,7 +34,7 @@ features:
     bulletpoints:
       - "_Foreword_"
       - "_Preface_"
-      - "Introduction"
+      - "[<u>Introduction</u>](/preview)"
       - "**Chapter 1**: Adolescent Activities: Serving in a Neighborhood Teen Center"
       - "**Chapter 2**: Adolescent Attunement: Reflecting, Listening, and Learning Through Shared Experiences"
       - "**Chapter 3**: Adolescent Anguish: Social Media Contagion and the Devastating Rise of Anxiety and Depression"
