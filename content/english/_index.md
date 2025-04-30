@@ -29,12 +29,10 @@ features:
       - "For those passionate about making a lasting impact in the lives of youth, **_The Anguish of Adolescence_** will equip you with the tools to break down barriers and foster deep, transformative relationships. Ultimately, it’s about offering healing, wholeness, and the love of Jesus to a _generation that desperately needs and yearns for peace but rejects the church_. This resource is for anyone committed to walking with teens through their spiritual and emotional journeys."
 
   - title: "The Authors"
-    image: "/images/dave_toni_castle_cropped.jpg"
+    image: "/images/authors.jpg"
     content: "David Flood (D.Min, Northern Seminary; MACL, Dallas Theological Seminary; BA, Moody Bible Institute) and Antoinette Flood (BA, Biblical Studies, University of Northwestern St. Paul; High School Advisor) have committed 30 years to evangelizing, educating, and mentoring teenagers through their 501(c)(3) nonprofit organization, Non-Toxic Youth Alternatives, Inc."
 
   - title: "Table of Contents"
-    image: "/images/open-book-toc.png"
-    invert: true
     # content: ""
     numbered: true
     list: true
