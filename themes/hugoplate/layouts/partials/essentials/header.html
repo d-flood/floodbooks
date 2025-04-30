@@ -42,7 +42,7 @@
                 {{ $childURL := .URL | absLangURL }}
                 {{ $active := eq $childURL $pageURL }}
                 {{ if $active }}active{{ end }}
-              {{ end }} inline-flex items-center">
+              {{ end }} inline-flex items-center hover:text-primary dark:hover:text-darkmode-primary hover:underline hover:bg-gray-200 dark:hover:bg-darkmode-theme-light transition-all duration-300 px-2 py-1 rounded">
               {{ .Name }}
               <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
                 <path
@@ -58,7 +58,7 @@
                   <a
                     class="nav-dropdown-link {{ if $active }}
                       active
-                    {{- end -}}"
+                    {{- end -}} hover:text-primary dark:hover:text-darkmode-primary hover:underline hover:bg-gray-200 dark:hover:bg-darkmode-theme-light transition-all duration-300 px-2 py-1 rounded"
                     {{ if findRE `^http` .URL }}
                       target="_blank" rel="noopener"
                     {{ end }}
@@ -79,7 +79,7 @@
         {{ else }}
           <li class="nav-item">
             <a
-              class="nav-link {{ if $active }}active{{- end -}}"
+              class="nav-link {{ if $active }}active{{- end -}} hover:text-primary dark:hover:text-darkmode-primary hover:underline hover:bg-gray-200 dark:hover:bg-darkmode-theme-light transition-all duration-300 px-2 py-1 rounded"
               {{ if findRE `^http` .URL }}
                 target="_blank" rel="noopener"
               {{ end }}

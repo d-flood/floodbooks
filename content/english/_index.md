@@ -3,16 +3,23 @@
 banner:
   title: "The Anguish of Adolescence"
   content: "Practicing the Gospel of Peace Among Teens Suffering from Anxiety and Depression."
-  image: "/images/aoa_cover.jpg"
+  image: "/images/book_cover.jpg"
   button:
     enable: true
     label: "Preview the book"
     link: "/preview"
+  order_links:
+    - label: "Amazon"
+      link: "https://a.co/d/f9ycVUm"
+      icon: "fa-brands fa-amazon"
+    - label: "WestBow Press"
+      link: "https://www.westbowpress.com/en/bookstore/bookdetails/863014-the-anguish-of-adolescence"
+      icon: "fa-shopping-cart"
 
 # Features
 features:
   - title: "About the Book"
-    image: "/images/open-book-black.png"
+    image: "/images/cover_spread.jpg"
     invert: true
     content: "Recovering the gospel of peace in an age of anguish: for the millions of adolescents rejecting Christianity, and the record numbers who find it irrelevant. **_The Anguish of Adolescence_** is a timely read for anyone looking to understand and support today's teenagers, especially those grappling with anxiety, depression, and spiritual disconnect. As mental health issues surge, this highlights the importance of offering _the gospel of peace_ to emerging generations yearning for hope."
     bulletpoints:
