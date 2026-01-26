@@ -28,15 +28,7 @@
 {{ partialCached "custom-script.html" . }}
 
 
-<!-- google analytics -->
-{{ if and site.Config.Services.GoogleAnalytics.ID (ne site.Config.Services.GoogleAnalytics.ID "G-MEASUREMENT_ID") }}
-  {{ template "_internal/google_analytics.html" . }}
-{{ end }}
-
-
-<!-- google tag manager -->
-{{ partialCached "gtm.html" . }}
-
+<script defer src="https://stats.dflood.org/script.js" data-website-id="9ad7277c-c809-4d85-9816-c5f69fcc7431"></script>
 
 <!-- search index -->
 {{ partial "search-index.html" . }}
